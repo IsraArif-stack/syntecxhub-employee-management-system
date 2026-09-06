@@ -222,5 +222,3 @@ Web-Based Full-Stack Application
 
 This project was developed for educational and internship purposes.
 
-````
-to mujhe `ho gaya` bolo.** Phir hum **Step 17 — final project demo/video ke liye exactly kya show karna hai** karenge.
